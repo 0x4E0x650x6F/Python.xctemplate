@@ -6,10 +6,9 @@ ___PROJECTNAME___ Python project.
 To make the project run on Xcode:
 
 Product -> scheme -> edit scheme -> run -> info.
-	
 	* Set the Executable to Python:
-	- Select "Other" on the Combo Box  press, Command-Shift-G and set the path to Python ()
-	* Disable:
+	* Select "Other" on the Combo Box  press, Command-Shift-G and set the path to Python ()
+	* Disable
 		- Debug executable. 
 	* enable
 		Lauch automatically 
