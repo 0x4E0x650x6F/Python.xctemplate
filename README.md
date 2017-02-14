@@ -1,4 +1,4 @@
-___PROJECTNAME___  Module Repository.
+___PROJECTNAME___  Module Repository
 =====================================
 
 ___PROJECTNAME___ Python project.
@@ -9,8 +9,8 @@ Product -> scheme -> edit scheme -> run -> info.
 	* Set the Executable to Python:
 	* Select "Other" on the Combo Box  press, Command-Shift-G and set the path to Python ()
 	* Disable
-		- Debug executable. 
-	* enable
+		- Debug executable.  
+	* enable  
 		Lauch automatically 
 		
 Product -> scheme -> edit scheme -> run -> Arguments.
