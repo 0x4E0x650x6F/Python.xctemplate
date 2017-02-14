@@ -7,7 +7,8 @@ Xcode Python project Template.
 2. Create a folder named "Project Templates" in "~/Library/Developer/Xcode/Templates".
 
 ```
-mkdir -p ~/Library/Developer/Xcode/Templates/Project Templates && cd ~/Library/Developer/Xcode/Templates/Project Templates 
+mkdir -p ~/Library/Developer/Xcode/Templates/Project Templates && \
+cd ~/Library/Developer/Xcode/Templates/Project Templates 
 ```
 
 3. Go to "Project Templates" folder and Checkout or clone the project.
