@@ -22,5 +22,5 @@ If your interested in Xcode python script template check out.
 https://github.com/0x4E0x650x6F/Python-Script.xctemplate
 
 # TODO:
-- [ ]  Find a way to set this scheme config on the XCode Xml template.
+- [ ]  Find a way to set scheme config on the XCode Xml template.
 - [ ]  Find a way to run tests with virtualenv.
