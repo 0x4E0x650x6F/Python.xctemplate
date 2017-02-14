@@ -4,7 +4,7 @@ Xcode Python project Template.
 # INSTALL
 
 1. Go to ~/Library/Developer/Xcode/Templates.
-2. Create a folder named "Project Templates" in "/Library/Developer/Xcode/Templates".
+2. Create a folder named "Project Templates" in "~/Library/Developer/Xcode/Templates".
 
 ```
 mkdir -p ~/Library/Developer/Xcode/Templates/Project Templates && cd ~/Library/Developer/Xcode/Templates/Project Templates 
