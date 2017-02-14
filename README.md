@@ -1,11 +1,11 @@
 ___PROJECTNAME___  Module Repository.
 =====================================
 
-___PROJECTNAME___ Python project
+___PROJECTNAME___ Python project.
 
-To make the project run on Xcode: 
+To make the project run on Xcode:
 
-Product -> scheme -> edit scheme -> run -> info. 
+Product -> scheme -> edit scheme -> run -> info.
 	* Set the Executable to Python:
 		- Select "Other" on the Combo Box  press, Command-Shift-G and set the path to Python ()
 	* Disable:
